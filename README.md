@@ -10,7 +10,7 @@ What it does
 - Manages supplier information
 
 Tech Used
----------
+---------------------------------------------------
 - Java + Spring Boot
 - MongoDB
 
