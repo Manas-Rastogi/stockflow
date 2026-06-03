@@ -4,7 +4,7 @@ A REST API for managing inventory across
 multiple warehouses for B2B businesses.
 
 What it does
---------------------------------------------------
+---------------------------------------------------
 - Tracks products across multiple warehouses
 - Alerts when stock is running low
 - Manages supplier information
