@@ -13,7 +13,7 @@ Tech Used
 ---------------------------------------------------
 - Java + Spring Boot
 - MongoDB
-
+--------------
 Setup
 1. Clone this repo
 2. Start MongoDB on your machine
