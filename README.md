@@ -22,7 +22,7 @@ Setup
 
 API
 GET /api/companies/{company_id}/alerts/low-stock
-
+---------------------------------------------------
 Returns list of products that are 
 below minimum stock level in any warehouse.
 
