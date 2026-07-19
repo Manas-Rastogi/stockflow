@@ -20,7 +20,7 @@ Setup
 2. Start MongoDB on your machine
 3. Run the project using IntelliJ
 4. API runs on port 8082
-
+---------------------------------------------------
 API
 GET /api/companies/{company_id}/alerts/low-stock
 ---------------------------------------------------
