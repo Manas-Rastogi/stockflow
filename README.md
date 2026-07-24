@@ -9,7 +9,7 @@ What it does
 - Tracks products across multiple warehouses
 - Alerts when stock is running low
 - Manages supplier information
-
+---------------------------------------------------
 Tech Used
 ---------------------------------------------------
 - Java + Spring Boot
