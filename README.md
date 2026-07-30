@@ -22,6 +22,7 @@ Setup
 4. API runs on port 8082
 ---------------------------------------------------
 API
+---------------------------------------------------
 GET /api/companies/{company_id}/alerts/low-stock
 ---------------------------------------------------
 Returns list of products that are 
